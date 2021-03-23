@@ -9,6 +9,8 @@ from resources.user import UserRegister
 from resources.item import Item, ItemList
 from resources.store import Store, StoreList
 
+ #Adding a comment so there is a change for git
+
 app = Flask(__name__)
 
 app.config['DEBUG'] = True
