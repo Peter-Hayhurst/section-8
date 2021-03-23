@@ -10,7 +10,7 @@ from resources.item import Item, ItemList
 from resources.store import Store, StoreList
 
  #Adding a comment so there is a change for git
-
+ # a chnage from githib website.
 app = Flask(__name__)
 
 app.config['DEBUG'] = True
